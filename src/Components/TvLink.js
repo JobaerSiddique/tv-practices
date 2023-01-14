@@ -10,9 +10,8 @@ const TvLink = ({t}) => {
   }
     return (
         <div>
-            {play && <video >
-              <source controls src={link} />
-              </video>}
+            {play && <iframe src={link} frameborder="0"></iframe> }
+            
             
    <button>         <div onClick={()=>handleClick(play)} className="card w-96 bg-base-100 shadow-xl ">
   <figure className="px-10 pt-10">
