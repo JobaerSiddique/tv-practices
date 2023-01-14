@@ -1,17 +1,17 @@
 import React, { useState } from 'react';
 
 const TvLink = ({t}) => {
-  const [play,setPlay]=useState('')  
+  const [play,setPlay]=useState(false)  
   const {name,img,link} = t
 
   const handleClick = ()=>{
-    const plays = {link}
-    setPlay(plays)
+    
+    setPlay(true)
   }
     return (
         <div>
-            <iframe src={link}></iframe>
-            <div onClick={handleClick} className="card w-96 bg-base-100 shadow-xl ">
+            {!play && <iframe src={link}></iframe>}
+   <button>         <div onClick={()=>handleClick(play)} className="card w-96 bg-base-100 shadow-xl ">
   <figure className="px-10 pt-10">
     <img src={img} className="rounded-xl" />
   </figure>
@@ -20,7 +20,7 @@ const TvLink = ({t}) => {
     
 
   </div>
-</div>
+</div></button>
         </div>
     );
 };
