@@ -14,7 +14,7 @@ const Livetv = () => {
    },[])
     return (
         <div>
-            <div className='grid grid-cols-4 gap-8'>
+            <div className='grid grid-cols-4 md:grid-cols-1 sm:grid-cols-1 gap-8'>
             {
                 tv.map(t=><TvLink
                 key={t.id}
