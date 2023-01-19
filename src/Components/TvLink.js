@@ -3,14 +3,15 @@ import React, { useState } from 'react';
 const TvLink = ({t}) => {
   const [play,setPlay]=useState(false)  
   const {name,img,link} = t
-
+  const [close,setClose]= useState(true)
   const handleClick = ()=>{
     
     setPlay(true)
+    setClose(false)
   }
     return (
         <div>
-            {play && <iframe src={link} frameborder="0"></iframe> }
+            {play && <video src={link} controls></video> }
             
             
    <button>         <div onClick={()=>handleClick(play)} className="card w-96 bg-base-100 shadow-xl ">
