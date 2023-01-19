@@ -33,5 +33,171 @@
         "name":"Channel 24",
         "img":"https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" ,
         "link":"https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8"
+    },
+    {
+        "name":"Sony Aath",
+        "img":"https://i.imgur.com/gigcgc2.png" ,
+        "link":"http://103.205.133.21/hls/sony8.m3u8"
+    },
+    {
+        "name":"Sony Max 2",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" ,
+        "link":"http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6625/index.m3u8"
+    },
+    {
+        "name":"& Flix HD",
+        "img":"https://i.imgur.com/22bFS2O.png" ,
+        "link":"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"Bflix Movies",
+        "img":"https://i.imgur.com/Gocnao7.jpg" ,
+        "link":"https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"9XM",
+        "img":"https://s4.gifyu.com/images/image86b5f8b135364512.png" ,
+        "link":"http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"Zoom",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" ,
+        "link":"https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"Colors",
+        "img":"https://i.imgur.com/RxR0qdJ.png" ,
+        "link":"http://103.205.133.21/hls/chc.m3u8"
+    },
+    {
+        "name":"Fox HD",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" ,
+        "link":"https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8"
+    },
+    {
+        "name":"HBO Hits",
+        "img":"https://i.imgur.com/gUu2nMa.png" ,
+        "link":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
+    },
+    {
+        "name":"Peace TV English",
+        "img":"http://www.peacetv.tv/templates/images/english-logo.png" ,
+        "link":"https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"T Sports",
+        "img":"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,
+        "link":"http://10.16.100.207:8082/sports/sportst.m3u8"
+    },
+    {
+        "name":"T Sports [1]",
+        "img":"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,
+        "link":"http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name":"T Sports [2]",
+        "img":"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,
+        "link":"http://otv.ftpbd.net/streams/121/index.m3u8"
+    },
+    {
+        "name":"PTV Sports",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" ,
+        "link":"https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8"
+    },
+    {
+        "name":"PTV Sports [2]",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" ,
+        "link":"http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+    },
+    {
+        "name":"Sony Ten 1",
+        "img":"https://i.imgur.com/HOB0eef.jpg" ,
+        "link":"http://103.205.133.21/hls/ten1.m3u8"
+    },
+    {
+        "name":"Sony Ten 2",
+        "img":"https://i.imgur.com/Ryh5Cdy.jpg" ,
+        "link":"http://103.205.133.21/hls/ten2.m3u8"
+    },
+    {
+        "name":"Sony Ten 3",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" ,
+        "link":"http://103.205.133.21/hls/ten3.m3u8"
+    },
+    {
+        "name":"Sony Six HD",
+        "img":"https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg" ,
+        "link":"http://103.205.133.21/hls/sonysix.m3u8"
+    },
+    {
+        "name":"Bein Sports Xtra",
+        "img":"https://apps.beinsports.com/dev/au/images/XTRA.png" ,
+        "link":"https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"Real Madrid TV 1",
+        "img":"https://i.imgur.com/YTI1AMs.jpg" ,
+        "link":"http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"FC Bayern TV Live",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-VkQ2htIclLyzQ5UZsgtVpVhBkD-daAqDTw&usqp=CAU" ,
+        "link":"https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8?token=soheliptv01826655778"
+    },
+    {
+        "name":"Abu Dhabi Sports 1",
+        "img":"https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,
+        "link":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+    },
+    {
+        "name":"Abu Dhabi Sports 2",
+        "img":"https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,
+        "link":"https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+    },
+    {
+        "name":"Dubai Sports 1",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTsAJDKaJMiyjtdK34JEE09bEq3fHvUQ7rfg&usqp=CAU" ,
+        "link":"http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1"
+    },
+    {
+        "name":"The Islamic Network",
+        "img":"https://i.imgur.com/Z2Io8n4.png" ,
+        "link":"http://162.244.81.145:2215/live/livestream/playlist.m3u8"
+    },
+    {
+        "name":"Al Jazeera",
+        "img":"http://network.aljazeera.net/sites/default/files/press/2022/shr_ljzyr_lnjlyzy_-_sly_1.png" ,
+        "link":"https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+    },
+    {
+        "name":"Deepto TV",
+        "img":"https://1.bp.blogspot.com/-ah2RpjIcAdg/X7kf5ilfubI/AAAAAAAAA7E/zBHrrnfJrQo1kHkSl7LDv9mT8pWd4xaUgCPcBGAYYCw/w800/Deepto-tv-live.png" ,
+        "link":"http://103.205.133.21/hls/deeptotv.m3u8"
+    },
+    {
+        "name":"Jamuna TV",
+        "img":"https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" ,
+        "link":"http://103.205.133.21/hls/jamunatv.m3u8"
+    },
+    {
+        "name":"Nagorik TV",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" ,
+        "link":"http://103.205.133.21/hls/nagorik.m3u8"
+    },
+    {
+        "name":"News 24",
+        "img":"https://i.imgur.com/TfqhT5g.png" ,
+        "link":"http://103.205.133.21/hls/news24.m3u8"
+    },
+    {
+        "name":"Somoy TV",
+        "img":"https://s4.gifyu.com/images/image099aceca4574557b.png" ,
+        "link":"http://103.205.133.21/hls/somoy.m3u8"
+    },
+    {
+        "name":"Cartoon Network",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" ,
+        "link":"http://otv.ftpbd.net/streams/123/index.m3u8"
     }
+    
 ]
